@@ -7,9 +7,9 @@ Domain event handler integration for nestjs.
 ## Installation
 
 ```bash
-$ npm install --save @beincom/nest-domain-event @beincom/domain @beincom/common 
+$ npm install --save @beincom/nest-domain-event
 # OR
-$ yarn add @beincom/nest-domain-event @beincom/domain @beincom/common 
+$ yarn add @beincom/nest-domain-event
 ```
 ## License
 
