@@ -1,10 +1,16 @@
 ## Nest Domain Event
-Thư viện xử lý sự kiện miền DDD cho Nestjs.
+Domain event handler integration for nestjs.
 
-## Cài đặt
+## Document
+[Tiếng Việt](VN.README.MD).
+
+## Installation
+
 ```bash
 $ npm install --save @beincom/nest-domain-event @beincom/domain @beincom/common 
 # OR
 $ yarn add @beincom/nest-domain-event @beincom/domain @beincom/common 
 ```
+## License
 
+Package is [MIT licensed](LICENSE).
