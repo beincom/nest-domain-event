@@ -23,21 +23,21 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@beincom/common@^0.0.8", "@beincom/common@~0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@beincom/common/-/common-0.0.8.tgz#0028f811c2788fe8490fc9c837c98fe774e9acc8"
-  integrity sha512-nwatVef2tPznQL59GXCjOL0wJEHVH5rir4K+ttrUUV21EgcRtG2AMsJKjCvRzcmtXBfuEpr4s0a7EcWl3rtpxw==
+"@beincom/common@^0.0.9", "@beincom/common@~0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@beincom/common/-/common-0.0.9.tgz#1a5254cd24321f4fb259f9e7fc8cf9f058776f76"
+  integrity sha512-hoO0EM17TV/70hvxFXznwrQIIj3E37NKWz/6rVXAzg+ca27mRUS8/HpNkGJqSdmwl7+m0cCJjp5jnejuHZOXhA==
   dependencies:
     fast-equals "^4.0.3"
     uuid "^9.0.0"
     validator "^13.7.0"
 
-"@beincom/domain@^0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@beincom/domain/-/domain-0.0.8.tgz#a674d3317688f83c14fdc151da4bacbde70cfaab"
-  integrity sha512-sN2NomvloKTnC7pOP2PX5lvJ7ewVvG6qYpeGgmNCFybv1OtrBZs7TcknI76mI+e0YC0beAUR3H9yPB1nk6UVeQ==
+"@beincom/domain@^0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@beincom/domain/-/domain-0.0.9.tgz#99c81850bd55e2513010e4542d217a1232ececb5"
+  integrity sha512-SKbXiRl+PLwc3el66Y0JglQ++GK5PbXH7qmbS2P3dkb8IEN4JM2+Mb96uZe2WqZ/qiUoA4k7tZOn1pxr9ManQA==
   dependencies:
-    "@beincom/common" "~0.0.8"
+    "@beincom/common" "~0.0.9"
 
 "@commitlint/cli@^17.1.2":
   version "17.1.2"
