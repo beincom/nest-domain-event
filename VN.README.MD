@@ -6,7 +6,7 @@ Một chút về Domain Event.
 > **Domain Event** là một cái gì đó đã xảy ra trong **Domain** mà bạn muốn các phần khác của cùng một domain (đang trong quá trình xử lý) biết.
 > Các thành phần nhận được **Event** sẽ phản ứng bằng cách nào đó với các **Event** tương ứng.
 
-### Tại sao cần Domain Event.
+### Tại sao cần Domain Event.   
 > Một lợi ích quan trọng của **Domain Event** là thể hiện các side effects một cách rõ ràng.
 
 **Domain Event** giúp bạn diễn đạt rõ ràng các **Domain Rules**, dựa trên **Ubiquitous Language** do các **Domain Expert** cung cấp.
